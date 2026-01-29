@@ -1,1 +1,12 @@
-
+<h1>Nội dung yêu thích </h1>
+  <h2>Hình ảnh</h2>
+  <table>
+      <tr>
+          <td><img width="500pt" src="" alt="" /></td>
+          <td><img width="500pt" src="" alt="" /></td>
+      </tr>
+      <tr>
+          <td><img src="" alt="" /></td>
+          <td><img src="" alt="" /></td>
+      </tr>
+  </table>
